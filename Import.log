@@ -33,3 +33,27 @@
 2015-01-02 10:06:00.462 -0500	toggle_boolean_field__BUTTON ( field name )	0	script steps imported : 12
 2015-01-02 10:06:00.462 -0500	website_cache_primer.fmp12	0	scripts imported : 1
 2015-01-02 10:06:00.463 -0500	website_cache_primer.fmp12	0	Import completed
+2015-01-04 07:55:58.576 -0500	website_cache_primer.fmp12	0	Import of script steps from clipboard started
+2015-01-04 07:55:58.581 -0500	New Script	0	script steps imported : 1
+2015-01-04 07:55:58.581 -0500	website_cache_primer.fmp12	0	Import completed
+2015-01-04 07:56:11.734 -0500	website_cache_primer.fmp12	0	Import of script steps from clipboard started
+2015-01-04 07:56:11.737 -0500	New Script	0	script steps imported : 1
+2015-01-04 07:56:11.737 -0500	website_cache_primer.fmp12	0	Import completed
+2015-01-04 07:56:28.758 -0500	website_cache_primer.fmp12	0	Import of script steps from clipboard started
+2015-01-04 07:56:28.761 -0500	New Script	0	script steps imported : 1
+2015-01-04 07:56:28.762 -0500	website_cache_primer.fmp12	0	Import completed
+2015-01-04 07:58:43.712 -0500	website_cache_primer.fmp12	0	Import of script steps from clipboard started
+2015-01-04 07:58:43.715 -0500	delete_url_records	0	script steps imported : 3
+2015-01-04 07:58:43.715 -0500	website_cache_primer.fmp12	0	Import completed
+2015-01-04 08:01:03.146 -0500	website_cache_primer.fmp12	0	Import of script steps from clipboard started
+2015-01-04 08:01:03.149 -0500	delete_url_records ( site_uuid )	0	script steps imported : 1
+2015-01-04 08:01:03.149 -0500	website_cache_primer.fmp12	0	Import completed
+2015-01-04 08:01:49.403 -0500	website_cache_primer.fmp12	0	Import of script steps from clipboard started
+2015-01-04 08:01:49.405 -0500	delete_url_records ( site_uuid )	0	script steps imported : 1
+2015-01-04 08:01:49.406 -0500	website_cache_primer.fmp12	0	Import completed
+2015-01-04 08:08:59.774 -0500	website_cache_primer.fmp12	0	Import of script steps from clipboard started
+2015-01-04 08:08:59.777 -0500	delete_urls_all	0	script steps imported : 1
+2015-01-04 08:08:59.777 -0500	website_cache_primer.fmp12	0	Import completed
+2015-01-04 08:13:17.209 -0500	website_cache_primer.fmp12	0	Import of script steps from clipboard started
+2015-01-04 08:13:17.214 -0500	delete_urls_all	0	script steps imported : 35
+2015-01-04 08:13:17.214 -0500	website_cache_primer.fmp12	0	Import completed
