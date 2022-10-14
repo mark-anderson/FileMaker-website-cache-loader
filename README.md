@@ -7,3 +7,5 @@ There are other ways of accomplishing this (curl-loader, wget, etc.) but the goa
 
 More information on the project can be found here:
 http://www.markandersononline.com/details/website-cache-load-prime-filemaker/
+
+Built to extend the functionality of the FloristWare pos system for retail flower shops see http://www.floristware.com for more information.
